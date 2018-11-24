@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*"Time you enjoyed wasting is not wasted time"*
 Use the left arrow to go back!
